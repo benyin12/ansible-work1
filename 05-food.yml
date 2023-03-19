@@ -14,5 +14,5 @@
   - name: Host Code
     git:
       repo: https://github.com/benyin12/food.git
-      dest: /var/www/html     
+      dest: /var/www/html    
 ...
