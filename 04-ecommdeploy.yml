@@ -15,6 +15,6 @@
     git:
       repo: https://github.com/benyin12/ecomm.git
       dest: /var/www/html 
-      force: yes    
+      force: yes
 ...
   
